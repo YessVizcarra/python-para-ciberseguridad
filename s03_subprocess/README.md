@@ -15,4 +15,4 @@ con `subprocess.run` y devuelve `True` si el host responde.
 
 $ python3 ping_one.py
 192.168.56.101 True
-192.168.56.102 True  [200~EOF
+192.168.56.102 True
